@@ -41,7 +41,7 @@
  * "Ödeme İşlemi" sonucu beklenir.
 
  # Getting Started (Gereksinimler)
- Karate requires Java 8 (at least version 1.8.0_112 or greater) (Java jdk 1.8 sürümü ve üzeri)
+ Karate requires Java 8 (at least version 1.8.0_112 or greater) (Java jdk 1.8 sürümü ve üzeri.)
  https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
  **Intellij**
@@ -51,7 +51,7 @@
  (cucumber for java)
 
  **Karate Github**
- ""https://github.com/intuit/karate""
+ "https://github.com/intuit/karate"
 
  # Running in IntelliJ
  If you use IntelliJ IDEA, Cucumber support is built-in, and you can even select a single Scenario within a Feature to run at a time.
