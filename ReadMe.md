@@ -1,4 +1,4 @@
-# **Karate ile Web Servis Örneği**
+# **Karate ile Web Servis Testi Örneği**
 
 # **Runners**
 ## UI Runner
