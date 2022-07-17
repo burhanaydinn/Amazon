@@ -3,7 +3,7 @@
 # **Runners**
 ## UI Runner
 
- @Karate.Test
+    @Karate.Test
     Karate testUi() {
         return Karate.run("ui/AmazonUi.feature").relativeTo(getClass());
     }
