@@ -1,7 +1,7 @@
 # **Karate ile Web Servis Testi Örneği**
 
 # **Runners**
-## UI Runner
+## UI Runners
 
     @Karate.Test
     Karate testUi() {
