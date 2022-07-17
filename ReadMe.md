@@ -29,7 +29,7 @@
  * "Arama" butonuna tıklanır.
  * Sayfada bulunan "Dizüstü Bilgisayarlar" kategorisine tıklanır.
  * "Amazon Tarafından Gönderilir" seçeneğine tıklanır.
- * İlgili sayfadan Rastgele laptop bilgisayar seçilir.
+ * İlgili sayfadan Rastgele dizüstü bilgisayar seçilir.
  * "Sepete Ekle" ve "Sepete Git" butonuna tıklanır.
  * "Alışverişi Tamamla" butonuna tıklanır.
  * "Yeni adres ekle" bölümüne adres bilgileri girilir.
