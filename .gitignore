@@ -1,7 +1,10 @@
 /shelf/
 /workspace.xml
 .idea
+.data
 /data
+/message1.xml
+/message2.xml
 /target
 /reports
 /env
