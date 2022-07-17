@@ -1,6 +1,6 @@
-# Karate ile Web Servis Örneği
+# **Karate ile Web Servis Örneği**
 
-# Runners
+# **Runners**
 ## UI Runner
 
  @Karate.Test
@@ -18,7 +18,7 @@
         return Karate.run("ui/AddressInformationUi.feature").relativeTo(getClass());
     }
 
-# Steps
+# **Steps**
  * "https://www.amazon.com.tr" adresine gidilir.
  * "Giriş Yap" butonuna tıklanır.
  * "E-posta adresi" alanına geçerli E-posta adresi girilir.
